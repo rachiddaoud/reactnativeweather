@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>73368719027-5lsn6iajp7f840pa9q5isbrk3apd47b9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.73368719027-5lsn6iajp7f840pa9q5isbrk3apd47b9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>73368719027-mnj51d3b6klqosgescp2relqumnmq04j.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAQyBrujaY012VLOySoZ00WQNL1aluiPhA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>73368719027</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.weather</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-todo-d362e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-todo-d362e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:73368719027:ios:0ca4f0e2023fff4af2eac6</string>
+	<key>DATABASE_URL</key>
+	<string>https://flutter-todo-d362e.firebaseio.com</string>
+</dict>
+</plist>

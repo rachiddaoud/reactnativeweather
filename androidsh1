@@ -1,0 +1,252 @@
+Variant: debugUnitTest
+Config: debug
+Store: /Users/daoudrachid/Work/learning/weatherApp/android/app/debug.keystore
+Alias: androiddebugkey
+MD5: B4:56:ED:50:47:3C:C7:4A:E5:E0:98:8A:1B:1B:62:A5
+SHA1: 37:4F:AC:FD:97:F2:45:99:F8:BD:C0:61:3A:A9:55:9A:BB:6C:83:A2
+SHA-256: D8:BC:7A:03:70:B0:81:4D:32:09:DF:62:4E:D4:D9:4E:27:BB:14:AD:58:98:8F:A9:0E:36:1C:6C:05:A9:89:3F
+Valid until: samedi 2 février 2047
+----------
+Variant: debug
+Config: debug
+Store: /Users/daoudrachid/Work/learning/weatherApp/android/app/debug.keystore
+Alias: androiddebugkey
+MD5: B4:56:ED:50:47:3C:C7:4A:E5:E0:98:8A:1B:1B:62:A5
+SHA1: 37:4F:AC:FD:97:F2:45:99:F8:BD:C0:61:3A:A9:55:9A:BB:6C:83:A2
+SHA-256: D8:BC:7A:03:70:B0:81:4D:32:09:DF:62:4E:D4:D9:4E:27:BB:14:AD:58:98:8F:A9:0E:36:1C:6C:05:A9:89:3F
+Valid until: samedi 2 février 2047
+----------
+Variant: release
+Config: debug
+Store: /Users/daoudrachid/Work/learning/weatherApp/android/app/debug.keystore
+Alias: androiddebugkey
+MD5: B4:56:ED:50:47:3C:C7:4A:E5:E0:98:8A:1B:1B:62:A5
+SHA1: 37:4F:AC:FD:97:F2:45:99:F8:BD:C0:61:3A:A9:55:9A:BB:6C:83:A2
+SHA-256: D8:BC:7A:03:70:B0:81:4D:32:09:DF:62:4E:D4:D9:4E:27:BB:14:AD:58:98:8F:A9:0E:36:1C:6C:05:A9:89:3F
+Valid until: samedi 2 février 2047
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/daoudrachid/Work/learning/weatherApp/android/app/debug.keystore
+Alias: androiddebugkey
+MD5: B4:56:ED:50:47:3C:C7:4A:E5:E0:98:8A:1B:1B:62:A5
+SHA1: 37:4F:AC:FD:97:F2:45:99:F8:BD:C0:61:3A:A9:55:9A:BB:6C:83:A2
+SHA-256: D8:BC:7A:03:70:B0:81:4D:32:09:DF:62:4E:D4:D9:4E:27:BB:14:AD:58:98:8F:A9:0E:36:1C:6C:05:A9:89:3F
+Valid until: samedi 2 février 2047
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: /Users/daoudrachid/Work/learning/weatherApp/android/app/debug.keystore
+Alias: androiddebugkey
+MD5: B4:56:ED:50:47:3C:C7:4A:E5:E0:98:8A:1B:1B:62:A5
+SHA1: 37:4F:AC:FD:97:F2:45:99:F8:BD:C0:61:3A:A9:55:9A:BB:6C:83:A2
+SHA-256: D8:BC:7A:03:70:B0:81:4D:32:09:DF:62:4E:D4:D9:4E:27:BB:14:AD:58:98:8F:A9:0E:36:1C:6C:05:A9:89:3F
+Valid until: samedi 2 février 2047
+----------
+
+> Task :react-native-community_google-signin:signingReport
+Variant: debugUnitTest
+Config: debug
+Store: /Users/daoudrachid/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 56:33:92:7C:3D:D5:3D:3F:7C:A8:76:62:3A:23:FD:2E
+SHA1: 85:60:E4:D2:B1:20:43:DE:3B:69:7F:60:E2:1D:40:9C:47:D3:76:07
+SHA-256: 45:AC:7B:4B:45:42:E1:09:D9:27:F4:FE:43:01:3E:90:77:A7:2D:D2:72:96:48:64:ED:DB:5A:4F:7B:D7:F6:85
+Valid until: vendredi 18 février 2050
+----------
+Variant: releaseUnitTest
+Config: none
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/daoudrachid/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 56:33:92:7C:3D:D5:3D:3F:7C:A8:76:62:3A:23:FD:2E
+SHA1: 85:60:E4:D2:B1:20:43:DE:3B:69:7F:60:E2:1D:40:9C:47:D3:76:07
+SHA-256: 45:AC:7B:4B:45:42:E1:09:D9:27:F4:FE:43:01:3E:90:77:A7:2D:D2:72:96:48:64:ED:DB:5A:4F:7B:D7:F6:85
+Valid until: vendredi 18 février 2050
+----------
+
+> Task :react-native-community_masked-view:signingReport
+Variant: releaseUnitTest
+Config: none
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/daoudrachid/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 56:33:92:7C:3D:D5:3D:3F:7C:A8:76:62:3A:23:FD:2E
+SHA1: 85:60:E4:D2:B1:20:43:DE:3B:69:7F:60:E2:1D:40:9C:47:D3:76:07
+SHA-256: 45:AC:7B:4B:45:42:E1:09:D9:27:F4:FE:43:01:3E:90:77:A7:2D:D2:72:96:48:64:ED:DB:5A:4F:7B:D7:F6:85
+Valid until: vendredi 18 février 2050
+----------
+Variant: debugUnitTest
+Config: debug
+Store: /Users/daoudrachid/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 56:33:92:7C:3D:D5:3D:3F:7C:A8:76:62:3A:23:FD:2E
+SHA1: 85:60:E4:D2:B1:20:43:DE:3B:69:7F:60:E2:1D:40:9C:47:D3:76:07
+SHA-256: 45:AC:7B:4B:45:42:E1:09:D9:27:F4:FE:43:01:3E:90:77:A7:2D:D2:72:96:48:64:ED:DB:5A:4F:7B:D7:F6:85
+Valid until: vendredi 18 février 2050
+----------
+
+> Task :react-native-firebase_app:signingReport
+Variant: releaseUnitTest
+Config: none
+----------
+Variant: debugUnitTest
+Config: debug
+Store: /Users/daoudrachid/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 56:33:92:7C:3D:D5:3D:3F:7C:A8:76:62:3A:23:FD:2E
+SHA1: 85:60:E4:D2:B1:20:43:DE:3B:69:7F:60:E2:1D:40:9C:47:D3:76:07
+SHA-256: 45:AC:7B:4B:45:42:E1:09:D9:27:F4:FE:43:01:3E:90:77:A7:2D:D2:72:96:48:64:ED:DB:5A:4F:7B:D7:F6:85
+Valid until: vendredi 18 février 2050
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/daoudrachid/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 56:33:92:7C:3D:D5:3D:3F:7C:A8:76:62:3A:23:FD:2E
+SHA1: 85:60:E4:D2:B1:20:43:DE:3B:69:7F:60:E2:1D:40:9C:47:D3:76:07
+SHA-256: 45:AC:7B:4B:45:42:E1:09:D9:27:F4:FE:43:01:3E:90:77:A7:2D:D2:72:96:48:64:ED:DB:5A:4F:7B:D7:F6:85
+Valid until: vendredi 18 février 2050
+----------
+
+> Task :react-native-firebase_auth:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/daoudrachid/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 56:33:92:7C:3D:D5:3D:3F:7C:A8:76:62:3A:23:FD:2E
+SHA1: 85:60:E4:D2:B1:20:43:DE:3B:69:7F:60:E2:1D:40:9C:47:D3:76:07
+SHA-256: 45:AC:7B:4B:45:42:E1:09:D9:27:F4:FE:43:01:3E:90:77:A7:2D:D2:72:96:48:64:ED:DB:5A:4F:7B:D7:F6:85
+Valid until: vendredi 18 février 2050
+----------
+Variant: debugUnitTest
+Config: debug
+Store: /Users/daoudrachid/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 56:33:92:7C:3D:D5:3D:3F:7C:A8:76:62:3A:23:FD:2E
+SHA1: 85:60:E4:D2:B1:20:43:DE:3B:69:7F:60:E2:1D:40:9C:47:D3:76:07
+SHA-256: 45:AC:7B:4B:45:42:E1:09:D9:27:F4:FE:43:01:3E:90:77:A7:2D:D2:72:96:48:64:ED:DB:5A:4F:7B:D7:F6:85
+Valid until: vendredi 18 février 2050
+----------
+Variant: releaseUnitTest
+Config: none
+----------
+
+> Task :react-native-gesture-handler:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/daoudrachid/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 56:33:92:7C:3D:D5:3D:3F:7C:A8:76:62:3A:23:FD:2E
+SHA1: 85:60:E4:D2:B1:20:43:DE:3B:69:7F:60:E2:1D:40:9C:47:D3:76:07
+SHA-256: 45:AC:7B:4B:45:42:E1:09:D9:27:F4:FE:43:01:3E:90:77:A7:2D:D2:72:96:48:64:ED:DB:5A:4F:7B:D7:F6:85
+Valid until: vendredi 18 février 2050
+----------
+Variant: debugUnitTest
+Config: debug
+Store: /Users/daoudrachid/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 56:33:92:7C:3D:D5:3D:3F:7C:A8:76:62:3A:23:FD:2E
+SHA1: 85:60:E4:D2:B1:20:43:DE:3B:69:7F:60:E2:1D:40:9C:47:D3:76:07
+SHA-256: 45:AC:7B:4B:45:42:E1:09:D9:27:F4:FE:43:01:3E:90:77:A7:2D:D2:72:96:48:64:ED:DB:5A:4F:7B:D7:F6:85
+Valid until: vendredi 18 février 2050
+----------
+Variant: releaseUnitTest
+Config: none
+----------
+
+> Task :react-native-reanimated:signingReport
+Variant: debugUnitTest
+Config: debug
+Store: /Users/daoudrachid/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 56:33:92:7C:3D:D5:3D:3F:7C:A8:76:62:3A:23:FD:2E
+SHA1: 85:60:E4:D2:B1:20:43:DE:3B:69:7F:60:E2:1D:40:9C:47:D3:76:07
+SHA-256: 45:AC:7B:4B:45:42:E1:09:D9:27:F4:FE:43:01:3E:90:77:A7:2D:D2:72:96:48:64:ED:DB:5A:4F:7B:D7:F6:85
+Valid until: vendredi 18 février 2050
+----------
+Variant: releaseUnitTest
+Config: none
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/daoudrachid/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 56:33:92:7C:3D:D5:3D:3F:7C:A8:76:62:3A:23:FD:2E
+SHA1: 85:60:E4:D2:B1:20:43:DE:3B:69:7F:60:E2:1D:40:9C:47:D3:76:07
+SHA-256: 45:AC:7B:4B:45:42:E1:09:D9:27:F4:FE:43:01:3E:90:77:A7:2D:D2:72:96:48:64:ED:DB:5A:4F:7B:D7:F6:85
+Valid until: vendredi 18 février 2050
+----------
+
+> Task :react-native-safe-area-context:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/daoudrachid/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 56:33:92:7C:3D:D5:3D:3F:7C:A8:76:62:3A:23:FD:2E
+SHA1: 85:60:E4:D2:B1:20:43:DE:3B:69:7F:60:E2:1D:40:9C:47:D3:76:07
+SHA-256: 45:AC:7B:4B:45:42:E1:09:D9:27:F4:FE:43:01:3E:90:77:A7:2D:D2:72:96:48:64:ED:DB:5A:4F:7B:D7:F6:85
+Valid until: vendredi 18 février 2050
+----------
+Variant: debugUnitTest
+Config: debug
+Store: /Users/daoudrachid/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 56:33:92:7C:3D:D5:3D:3F:7C:A8:76:62:3A:23:FD:2E
+SHA1: 85:60:E4:D2:B1:20:43:DE:3B:69:7F:60:E2:1D:40:9C:47:D3:76:07
+SHA-256: 45:AC:7B:4B:45:42:E1:09:D9:27:F4:FE:43:01:3E:90:77:A7:2D:D2:72:96:48:64:ED:DB:5A:4F:7B:D7:F6:85
+Valid until: vendredi 18 février 2050
+----------
+Variant: releaseUnitTest
+Config: none
+----------
+
+> Task :react-native-screens:signingReport
+Variant: releaseUnitTest
+Config: none
+----------
+Variant: debugUnitTest
+Config: debug
+Store: /Users/daoudrachid/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 56:33:92:7C:3D:D5:3D:3F:7C:A8:76:62:3A:23:FD:2E
+SHA1: 85:60:E4:D2:B1:20:43:DE:3B:69:7F:60:E2:1D:40:9C:47:D3:76:07
+SHA-256: 45:AC:7B:4B:45:42:E1:09:D9:27:F4:FE:43:01:3E:90:77:A7:2D:D2:72:96:48:64:ED:DB:5A:4F:7B:D7:F6:85
+Valid until: vendredi 18 février 2050
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/daoudrachid/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 56:33:92:7C:3D:D5:3D:3F:7C:A8:76:62:3A:23:FD:2E
+SHA1: 85:60:E4:D2:B1:20:43:DE:3B:69:7F:60:E2:1D:40:9C:47:D3:76:07
+SHA-256: 45:AC:7B:4B:45:42:E1:09:D9:27:F4:FE:43:01:3E:90:77:A7:2D:D2:72:96:48:64:ED:DB:5A:4F:7B:D7:F6:85
+Valid until: vendredi 18 février 2050
+----------
+
+> Task :react-native-vector-icons:signingReport
+Variant: debugUnitTest
+Config: debug
+Store: /Users/daoudrachid/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 56:33:92:7C:3D:D5:3D:3F:7C:A8:76:62:3A:23:FD:2E
+SHA1: 85:60:E4:D2:B1:20:43:DE:3B:69:7F:60:E2:1D:40:9C:47:D3:76:07
+SHA-256: 45:AC:7B:4B:45:42:E1:09:D9:27:F4:FE:43:01:3E:90:77:A7:2D:D2:72:96:48:64:ED:DB:5A:4F:7B:D7:F6:85
+Valid until: vendredi 18 février 2050
+----------
+Variant: releaseUnitTest
+Config: none
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/daoudrachid/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 56:33:92:7C:3D:D5:3D:3F:7C:A8:76:62:3A:23:FD:2E
+SHA1: 85:60:E4:D2:B1:20:43:DE:3B:69:7F:60:E2:1D:40:9C:47:D3:76:07
+SHA-256: 45:AC:7B:4B:45:42:E1:09:D9:27:F4:FE:43:01:3E:90:77:A7:2D:D2:72:96:48:64:ED:DB:5A:4F:7B:D7:F6:85
+Valid until: vendredi 18 février 2050
+----------
