@@ -2,9 +2,9 @@
 # Weather APP
 
 <div align="center">
-    <img src="App/Assets/Images/appScreenshot.png" width="100%">
-    <img src="App/Assets/Images/drawerScreenshot.png" width="100%">
-    <img src="App/Assets/Images/loginScreenshot.png" width="100%">
+    <img src="App/Assets/Images/appScreenshot.png" width="200">
+    <img src="App/Assets/Images/drawerScreenshot.png" width="200">
+    <img src="App/Assets/Images/loginScreenshot.png" width="200">
 </div>
 
 This is a [React Native](https://facebook.github.io/react-native/) app that i created to grasp the different libraries, it's based on [React Native boilerplate](https://github.com/thecodingmachine/react-native-boilerplate).
