@@ -16,7 +16,7 @@ import Colors from 'App/Theme/Colors'
 import VerticalWeatherDay from 'App/Components/VerticalWeatherDay'
 import HorizontalWeatherDay from 'App/Components/HorizontalWeatherDay'
 import PrincipalWeatherDay from 'App/Components/PrincipalWeatherDay'
-import { Divider } from 'react-native-elements'
+import { Divider, Icon } from 'react-native-elements'
 
 class ViewScreen extends React.Component {
   componentDidMount() {
@@ -29,6 +29,16 @@ class ViewScreen extends React.Component {
       <SafeAreaView
         style={[{ backgroundColor: Colors.primary }, Helpers.fillCol, Helpers.crossStretch]}
       >
+        <View style={{ position: 'absolute', left: 15, top: 15, zIndex:2 }}>
+          <Icon
+            name="menu"
+            color="white"
+            size={30}
+            onPress={() => {
+              this.props.navigation.toggleDrawer()
+            }}
+          />
+        </View>
         <ScrollView
           refreshControl={
             <RefreshControl

@@ -1,4 +1,4 @@
-package com.weather;
+package com.rachid.weatherapp;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
@@ -13,7 +13,7 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "weather";
+        return "weatherApp";
     }
 
     @Override

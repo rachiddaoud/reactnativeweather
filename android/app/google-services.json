@@ -8,12 +8,65 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:138165778645:android:c9ceded16bef6e39b50a5c",
+        "android_client_info": {
+          "package_name": "com.rachid.weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138165778645-f03jg420jvrdg7gtukuip5br370icetl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rachid.weatherapp",
+            "certificate_hash": "be3662d60845e3d6ae4158d0012aa3f9d28f4fb4"
+          }
+        },
+        {
+          "client_id": "138165778645-lg0vl3lu0afik5stcrmbonf955g6d089.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rachid.weatherapp",
+            "certificate_hash": "374facfd97f24599f8bdc0613aa9559abb6c83a2"
+          }
+        },
+        {
+          "client_id": "138165778645-6fatfl3atd96u7nnrutgsrmr2304pl77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB65x5a0kYomeKZAo855PjkSFVgb9B4aA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138165778645-6fatfl3atd96u7nnrutgsrmr2304pl77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:138165778645:android:596efcf837553128b50a5c",
         "android_client_info": {
           "package_name": "com.weather"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "138165778645-cbn99oh45qdmb4i5b7ib2hd0hgells2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weather",
+            "certificate_hash": "be3662d60845e3d6ae4158d0012aa3f9d28f4fb4"
+          }
+        },
         {
           "client_id": "138165778645-oh07lguf14v3qoun4hjh56j7djl9gdrm.apps.googleusercontent.com",
           "client_type": 1,

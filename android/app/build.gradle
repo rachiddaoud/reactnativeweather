@@ -127,7 +127,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.weather"
+        applicationId "com.rachid.weatherapp"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

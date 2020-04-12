@@ -46,6 +46,7 @@ function RootDrawer() {
   return (
     <Drawer.Navigator
       initialRouteName="Home"
+      drawerType="slide"
       drawerContent={(props) => <CustomDrawerContent {...props} />}
     >
       <Stack.Screen name="Home" component={ViewScreen} />
